@@ -17,7 +17,7 @@
                       <ul>
                         <li class="boton"><button class="button_interac">Home</button></li>
                         <li class="boton"><button class="button_interac">About</button></li>
-                        <li class="boton"><button class="button_interac" style="width: 100%;">Contact</button></li>
+                        <li class="boton"><button class="button_interac">Contact</button></li>
                         <li class="boton"><button class="button_interac">login</button></li>
 
                       </ul>
