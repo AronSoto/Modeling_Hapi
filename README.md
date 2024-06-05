@@ -40,3 +40,11 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+### Contributions
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+### About Me
+You can find more of my projects on GitHub.
+
+I'm Aron and thank you for checking out my project!
