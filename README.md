@@ -51,4 +51,4 @@ npm run preview
 You can find more of my projects on [GitHub](https://github.com/AronSoto).
 <img src="https://media.tenor.com/Poq4-7SmZsMAAAAi/minecraft-minecraft-axolotl.gif" align = "right" width="100">
 
-I'm Aron and thank you for checking out my project!
+I'm AronSoto and thank you for checking out my project!
