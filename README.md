@@ -2,21 +2,6 @@
 
 Sitio web moderno para Hapi 2.0 - Empresa de compra y venta de acciones y criptomonedas.
 
-## 🚀 Tecnologías
-
-- **Nuxt 3** - Framework Vue.js moderno
-- **Vue 3** - Framework JavaScript reactivo
-- **TypeScript** - Tipado estático
-- **Vite** - Build tool rápido
-- **SCSS** - Preprocesador CSS
-- **ESLint** - Linting de código
-- **Prettier** - Formateo de código
-
-## 📋 Requisitos
-
-- Node.js 20 o superior
-- npm o yarn
-
 ## 🛠️ Instalación
 
 ```bash
