@@ -55,54 +55,6 @@ Este proyecto está configurado para desplegarse automáticamente en GitHub Page
 4. En **Source** (Origen), selecciona **GitHub Actions**
 5. Guarda los cambios
 
-El workflow de GitHub Actions (`.github/workflows/deploy.yml`) se encargará automáticamente de:
-- Instalar dependencias
-- Generar el sitio estático
-- Desplegarlo en GitHub Pages
-
-Tu sitio estará disponible en: `https://aronsoto.github.io/Modeling_Hapi/`
-
-## 📁 Estructura del Proyecto
-
-```
-├── .github/
-│   └── workflows/
-│       └── deploy.yml          # Configuración de GitHub Actions
-├── assets/
-│   └── scss/
-│       └── _variables.scss     # Variables SCSS
-├── components/
-│   ├── Header.vue              # Componente de encabezado
-│   └── Footer.vue              # Componente de pie de página
-├── pages/
-│   └── index.vue               # Página principal
-├── public/
-│   └── Logo_Happi.png          # Logo de la aplicación
-├── app.vue                     # Componente raíz
-├── nuxt.config.ts              # Configuración de Nuxt
-├── eslint.config.mjs           # Configuración de ESLint
-├── .prettierrc                 # Configuración de Prettier
-├── tsconfig.json               # Configuración de TypeScript
-└── package.json                # Dependencias y scripts
-```
-
-## 🎨 Personalización
-
-### Colores principales:
-- Primario: `#4c57ed`
-- Secundario: `#2be0ee`
-- Fondo: `#C6C6C6`
-- Footer: `rgb(20, 11, 68)`
-
-Estos colores están definidos en `assets/scss/_variables.scss`.
-
-## 📱 Responsive Design
-
-El sitio es completamente responsive con breakpoints en:
-- Mobile: `< 768px`
-- Tablet: `>= 768px`
-- Desktop: `>= 1024px`
-
 ## 🤝 Contribuir
 
 1. Fork el proyecto
