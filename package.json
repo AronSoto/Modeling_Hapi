@@ -1,17 +1,27 @@
 {
-  "name": "nuxt-app",
+  "name": "modeling-hapi",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write \"**/*.{js,ts,vue,css,scss,json,md}\""
   },
   "devDependencies": {
-    "@types/node": "^18",
-    "nuxt": "^3.5.0",
-    "sass": "^1.62.1",
-    "sass-loader": "^10.4.1"
+    "@nuxt/eslint": "^0.5.7",
+    "@types/node": "^22.9.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.0",
+    "nuxt": "^3.14.159",
+    "prettier": "^3.3.3",
+    "sass": "^1.80.7",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vue": "^3.5.12"
   }
 }
